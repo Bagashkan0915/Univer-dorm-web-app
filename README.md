@@ -21,7 +21,7 @@
 
 5.API 文档: 待开发...
 # 技术选型
-##前端: Vite 2 React 17
-##后端: Python 3.9.6 Django 3.2.8
-##数据库: SQLite
+## 前端: Vite 2 React 17
+## 后端: Python 3.9.6 Django 3.2.8
+## 数据库: SQLite
 
