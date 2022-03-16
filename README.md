@@ -9,4 +9,4 @@
 
 启动项目: 命令行工具输入 pnpm dev
 
-浏览页面: 浏览器访问 http://localhost:3015
+浏览页面: 浏览器访问 http://localhost:3015  。
