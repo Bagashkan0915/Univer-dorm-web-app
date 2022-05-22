@@ -9,18 +9,6 @@
 		"management system",
 		"dormitory management system"
 	],
-	"author": {
-		"name": "Yernar.T",
-		"email": "toktaryernar@gmail.com",
-		"url": "https://github.com/YernarT"
-	},
-	"bugs": {
-		"url": "https://github.com/YernarT/dormitory_management_system/issues"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/YernarT/dormitory_management_system"
-	},
 	"license": "MIT",
 	"dependencies": {
 		"@ant-design/icons": "^4.7.0",
